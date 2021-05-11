@@ -1,0 +1,25 @@
+{
+  "name": "directx",
+  "description": "Discord Bot",
+  "main": "direct.js",
+  "scripts": {
+    "start": "node direct.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Worek101/Direct-X"
+  },
+  "author": "Worek",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/Worek101/Direct-X"
+  },
+  "homepage": "https://github.com/Worek101/Direct-X",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "pretty-ms": "^7.0.1"
+  },
+  "engines": {
+    "node": "v14.16.1"
+  }
+}

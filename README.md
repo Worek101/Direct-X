@@ -1,1 +1,1 @@
-# Direct-X
+Witaj jeśli czytasz tę wiadomość chce Ci przekazać abyś nie poddawał się i dąrzył do wygranej!
